@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/unnati24/activity-logs-react/precache-manifest.2492e6575bec6aec9f1cd2236e637e7a.js"
+  "/unnati24/activity-logs-react/precache-manifest.d0c35290547780499075defd954b3e4c.js"
 );
 
 self.addEventListener('message', (event) => {

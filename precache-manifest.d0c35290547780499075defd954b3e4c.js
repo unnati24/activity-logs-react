@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d8193d7efa77be98b9343fa96e0c181",
+    "revision": "8419e2b7d3a83ccbad856f9bcf4a2b38",
     "url": "/unnati24/activity-logs-react/index.html"
   },
   {
