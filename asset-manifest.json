@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.com/activity-logs-react/static/css/main.e9639a40.chunk.css",
-    "main.js": "/github.com/activity-logs-react/static/js/main.a2ad0d7e.chunk.js",
-    "main.js.map": "/github.com/activity-logs-react/static/js/main.a2ad0d7e.chunk.js.map",
-    "runtime-main.js": "/github.com/activity-logs-react/static/js/runtime-main.48c43a53.js",
-    "runtime-main.js.map": "/github.com/activity-logs-react/static/js/runtime-main.48c43a53.js.map",
-    "static/js/2.1e42dcd8.chunk.js": "/github.com/activity-logs-react/static/js/2.1e42dcd8.chunk.js",
-    "static/js/2.1e42dcd8.chunk.js.map": "/github.com/activity-logs-react/static/js/2.1e42dcd8.chunk.js.map",
-    "index.html": "/github.com/activity-logs-react/index.html",
-    "precache-manifest.ef2da6ec3a9797512d396272deb9f2e2.js": "/github.com/activity-logs-react/precache-manifest.ef2da6ec3a9797512d396272deb9f2e2.js",
-    "service-worker.js": "/github.com/activity-logs-react/service-worker.js",
-    "static/css/main.e9639a40.chunk.css.map": "/github.com/activity-logs-react/static/css/main.e9639a40.chunk.css.map",
-    "static/js/2.1e42dcd8.chunk.js.LICENSE.txt": "/github.com/activity-logs-react/static/js/2.1e42dcd8.chunk.js.LICENSE.txt"
+    "main.css": "/activity-logs-react/static/css/main.e9639a40.chunk.css",
+    "main.js": "/activity-logs-react/static/js/main.a2ad0d7e.chunk.js",
+    "main.js.map": "/activity-logs-react/static/js/main.a2ad0d7e.chunk.js.map",
+    "runtime-main.js": "/activity-logs-react/static/js/runtime-main.19b60f60.js",
+    "runtime-main.js.map": "/activity-logs-react/static/js/runtime-main.19b60f60.js.map",
+    "static/js/2.1e42dcd8.chunk.js": "/activity-logs-react/static/js/2.1e42dcd8.chunk.js",
+    "static/js/2.1e42dcd8.chunk.js.map": "/activity-logs-react/static/js/2.1e42dcd8.chunk.js.map",
+    "index.html": "/activity-logs-react/index.html",
+    "precache-manifest.b86536cb0c78d7d15260fd7f5f994f0e.js": "/activity-logs-react/precache-manifest.b86536cb0c78d7d15260fd7f5f994f0e.js",
+    "service-worker.js": "/activity-logs-react/service-worker.js",
+    "static/css/main.e9639a40.chunk.css.map": "/activity-logs-react/static/css/main.e9639a40.chunk.css.map",
+    "static/js/2.1e42dcd8.chunk.js.LICENSE.txt": "/activity-logs-react/static/js/2.1e42dcd8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.48c43a53.js",
+    "static/js/runtime-main.19b60f60.js",
     "static/js/2.1e42dcd8.chunk.js",
     "static/css/main.e9639a40.chunk.css",
     "static/js/main.a2ad0d7e.chunk.js"
