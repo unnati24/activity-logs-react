@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/unnati24/activity-logs-react/static/css/main.e9639a40.chunk.css",
-    "main.js": "/unnati24/activity-logs-react/static/js/main.a2ad0d7e.chunk.js",
-    "main.js.map": "/unnati24/activity-logs-react/static/js/main.a2ad0d7e.chunk.js.map",
-    "runtime-main.js": "/unnati24/activity-logs-react/static/js/runtime-main.e07a8724.js",
-    "runtime-main.js.map": "/unnati24/activity-logs-react/static/js/runtime-main.e07a8724.js.map",
-    "static/js/2.1e42dcd8.chunk.js": "/unnati24/activity-logs-react/static/js/2.1e42dcd8.chunk.js",
-    "static/js/2.1e42dcd8.chunk.js.map": "/unnati24/activity-logs-react/static/js/2.1e42dcd8.chunk.js.map",
-    "index.html": "/unnati24/activity-logs-react/index.html",
-    "precache-manifest.d0c35290547780499075defd954b3e4c.js": "/unnati24/activity-logs-react/precache-manifest.d0c35290547780499075defd954b3e4c.js",
-    "service-worker.js": "/unnati24/activity-logs-react/service-worker.js",
-    "static/css/main.e9639a40.chunk.css.map": "/unnati24/activity-logs-react/static/css/main.e9639a40.chunk.css.map",
-    "static/js/2.1e42dcd8.chunk.js.LICENSE.txt": "/unnati24/activity-logs-react/static/js/2.1e42dcd8.chunk.js.LICENSE.txt"
+    "main.css": "/github.com/activity-logs-react/static/css/main.e9639a40.chunk.css",
+    "main.js": "/github.com/activity-logs-react/static/js/main.a2ad0d7e.chunk.js",
+    "main.js.map": "/github.com/activity-logs-react/static/js/main.a2ad0d7e.chunk.js.map",
+    "runtime-main.js": "/github.com/activity-logs-react/static/js/runtime-main.48c43a53.js",
+    "runtime-main.js.map": "/github.com/activity-logs-react/static/js/runtime-main.48c43a53.js.map",
+    "static/js/2.1e42dcd8.chunk.js": "/github.com/activity-logs-react/static/js/2.1e42dcd8.chunk.js",
+    "static/js/2.1e42dcd8.chunk.js.map": "/github.com/activity-logs-react/static/js/2.1e42dcd8.chunk.js.map",
+    "index.html": "/github.com/activity-logs-react/index.html",
+    "precache-manifest.ef2da6ec3a9797512d396272deb9f2e2.js": "/github.com/activity-logs-react/precache-manifest.ef2da6ec3a9797512d396272deb9f2e2.js",
+    "service-worker.js": "/github.com/activity-logs-react/service-worker.js",
+    "static/css/main.e9639a40.chunk.css.map": "/github.com/activity-logs-react/static/css/main.e9639a40.chunk.css.map",
+    "static/js/2.1e42dcd8.chunk.js.LICENSE.txt": "/github.com/activity-logs-react/static/js/2.1e42dcd8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e07a8724.js",
+    "static/js/runtime-main.48c43a53.js",
     "static/js/2.1e42dcd8.chunk.js",
     "static/css/main.e9639a40.chunk.css",
     "static/js/main.a2ad0d7e.chunk.js"
